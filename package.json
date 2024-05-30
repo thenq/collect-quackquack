@@ -1,0 +1,16 @@
+{
+  "name": "collectqq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "collect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
